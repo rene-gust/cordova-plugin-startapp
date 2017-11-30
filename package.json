@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-startapp",
+  "version": "0.0.1",
+  "description": "plugin to call startapp sdk.",
+  "author": "Rene Gust <info@rene-gust.de>",
+  "bundleDependencies": false,
+  "dependencies": {
+    "cordova": "*"
+  },
+  "deprecated": false
+}
